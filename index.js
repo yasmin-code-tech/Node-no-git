@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
     <html>
       <head><title>Home</title></head>
       <body>
-        <h1>Welcome to the Home Page</h1>
+        <h1>Welcome to the Home </h1>
         <p>This is the homepage of our Node.js application!</p>
       </body>
     </html>
